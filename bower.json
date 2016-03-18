@@ -1,6 +1,5 @@
 {
   "name": "CSS.escape",
-  "version": "master",
   "license": "MIT",
   "main": "./css.escape.js",
   "ignore": [],
